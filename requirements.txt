@@ -1,0 +1,6 @@
+insightface==0.7.3
+fastapi
+uvicorn
+faiss-cpu
+opencv-python
+numpy
